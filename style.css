@@ -1,0 +1,16 @@
+h2{
+    display: inline-block;
+}
+
+#titolo{
+    float: right;
+    display: inline-block;
+}
+
+.edit{
+    margin-right: 50px;
+}
+
+body{
+    margin-top: 25px;
+}
