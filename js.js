@@ -1,6 +1,6 @@
 $(function () {
   var dati;
-  var index="http://localhost:8080/index.php";
+  var index="http://localhost:8080/Index.php";
 
   $("body").ready(function () {
     getDati(index);  
